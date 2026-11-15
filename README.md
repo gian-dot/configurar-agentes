@@ -23,7 +23,7 @@ Ela não sobrescreve agentes existentes sem perguntar e não faz commit.
 Clone este repositório dentro da pasta de skills do usuário:
 
 ```bash
-git clone <url-deste-repositorio> ~/.claude/skills/configurar-agentes
+git clone https://github.com/gian-dot/configurar-agentes.git ~/.claude/skills/configurar-agentes
 ```
 
 ## Uso
